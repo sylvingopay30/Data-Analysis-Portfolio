@@ -1,0 +1,3 @@
+variant,users,conversions,conversion_rate,total_revenue,avg_order_value
+Control,12000,1321,0.1101,46261.42,35.02
+Treatment,12000,1595,0.1329,94009.3,58.94

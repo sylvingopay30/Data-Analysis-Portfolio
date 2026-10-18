@@ -1,0 +1,8 @@
+Segment,customers,avg_recency,avg_frequency,avg_monetary,total_revenue
+At Risk,730,326.0,3.5,235.7,172073.3
+Big Spenders,107,325.9,1.7,327.1,35004.8
+Champions,1090,42.6,10.0,690.7,752875.1
+Lost / Hibernating,986,450.6,1.2,55.4,54614.4
+Loyal Customers,914,111.3,4.7,328.7,300392.9
+Need Attention,768,201.0,2.0,110.3,84733.7
+Promising / New,405,54.4,1.5,101.6,41153.7

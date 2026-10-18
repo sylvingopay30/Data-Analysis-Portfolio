@@ -1,0 +1,5 @@
+stock_status,skus,total_value,avg_days_supply
+Healthy,95,1234417.0,34.4
+Low Stock,9,28260.7,8.1
+Overstock,285,8884911.8,278.9
+Stockout Risk,11,6817.5,2.3
