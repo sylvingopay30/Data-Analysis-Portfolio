@@ -1,0 +1,11 @@
+route,mode,city,otp_pct,avg_delay_minutes,total_patronage
+Route 6,Train,Sydney,90.6,5.1,1576914.0
+Route 5,Train,Sydney,90.8,5.1,1879775.0
+Route 1,Train,Melbourne,90.9,5.3,1686499.0
+Route 8,Ferry,Sydney,91.2,4.6,449889.0
+Route 10,Train,Brisbane,91.6,4.6,1313619.0
+Route 2,Train,Melbourne,91.8,4.4,1425601.0
+Route 4,Bus,Melbourne,94.1,4.5,562842.0
+Route 3,Tram,Melbourne,94.5,4.9,824536.0
+Route 9,Bus,Brisbane,94.6,4.6,751198.0
+Route 7,Bus,Sydney,94.7,4.5,674312.0

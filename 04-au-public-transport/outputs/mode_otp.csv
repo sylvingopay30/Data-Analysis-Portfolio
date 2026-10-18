@@ -1,0 +1,5 @@
+mode,otp_pct,avg_delay_minutes,total_patronage
+Train,91.1,4.9,7882408.0
+Ferry,91.2,4.6,449889.0
+Bus,94.4,4.5,1988352.0
+Tram,94.5,4.9,824536.0
