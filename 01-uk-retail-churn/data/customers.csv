@@ -1,0 +1,1201 @@
+customer_id,city,signup_date,acquisition_channel
+CUST00001,Liverpool,2022-04-13,Email
+CUST00002,Edinburgh,2023-03-12,Social
+CUST00003,Edinburgh,2022-09-28,Paid Search
+CUST00004,Birmingham,2022-04-17,Organic
+CUST00005,Bristol,2022-03-13,Paid Search
+CUST00006,London,2022-01-21,Email
+CUST00007,Manchester,2023-09-07,Referral
+CUST00008,Sheffield,2022-05-02,Referral
+CUST00009,London,2023-04-12,Email
+CUST00010,London,2022-08-03,Organic
+CUST00011,London,2022-11-27,Social
+CUST00012,London,2023-04-04,Organic
+CUST00013,London,2022-03-29,Paid Search
+CUST00014,Glasgow,2023-01-08,Referral
+CUST00015,Birmingham,2022-04-10,Email
+CUST00016,Sheffield,2023-10-26,Organic
+CUST00017,Edinburgh,2022-05-11,Email
+CUST00018,Manchester,2023-10-24,Social
+CUST00019,Manchester,2022-11-05,Paid Search
+CUST00020,Birmingham,2022-12-10,Social
+CUST00021,Glasgow,2023-05-07,Paid Search
+CUST00022,Manchester,2023-02-18,Paid Search
+CUST00023,Glasgow,2023-01-21,Paid Search
+CUST00024,Birmingham,2022-07-11,Email
+CUST00025,Glasgow,2022-10-04,Referral
+CUST00026,Birmingham,2022-06-10,Paid Search
+CUST00027,Manchester,2023-04-05,Organic
+CUST00028,Cardiff,2022-11-10,Referral
+CUST00029,Liverpool,2022-01-22,Paid Search
+CUST00030,London,2022-09-10,Email
+CUST00031,Sheffield,2023-07-15,Email
+CUST00032,Leeds,2023-04-20,Organic
+CUST00033,Sheffield,2022-02-28,Social
+CUST00034,Edinburgh,2023-05-26,Organic
+CUST00035,Birmingham,2023-11-13,Social
+CUST00036,London,2023-04-21,Referral
+CUST00037,Manchester,2023-12-01,Referral
+CUST00038,Leeds,2022-07-09,Paid Search
+CUST00039,Bristol,2023-11-18,Email
+CUST00040,Manchester,2023-07-17,Organic
+CUST00041,London,2023-07-21,Paid Search
+CUST00042,Edinburgh,2022-09-01,Paid Search
+CUST00043,Cardiff,2023-05-20,Referral
+CUST00044,Leeds,2022-05-11,Organic
+CUST00045,London,2023-04-30,Email
+CUST00046,Manchester,2023-10-09,Email
+CUST00047,London,2022-01-21,Paid Search
+CUST00048,Sheffield,2022-06-16,Email
+CUST00049,London,2022-10-01,Paid Search
+CUST00050,Glasgow,2023-01-23,Email
+CUST00051,Manchester,2023-08-24,Email
+CUST00052,Glasgow,2022-11-12,Organic
+CUST00053,Bristol,2022-01-14,Email
+CUST00054,Edinburgh,2022-08-30,Organic
+CUST00055,London,2022-12-12,Organic
+CUST00056,London,2023-07-19,Email
+CUST00057,London,2022-12-06,Organic
+CUST00058,Sheffield,2022-04-02,Organic
+CUST00059,Sheffield,2023-01-02,Organic
+CUST00060,Glasgow,2023-03-31,Email
+CUST00061,Glasgow,2023-03-04,Organic
+CUST00062,Bristol,2023-05-24,Paid Search
+CUST00063,London,2022-02-04,Email
+CUST00064,Sheffield,2022-07-25,Email
+CUST00065,Birmingham,2022-03-22,Paid Search
+CUST00066,Birmingham,2023-07-16,Paid Search
+CUST00067,Leeds,2023-01-23,Paid Search
+CUST00068,London,2022-01-02,Organic
+CUST00069,London,2023-01-25,Organic
+CUST00070,Liverpool,2023-07-20,Email
+CUST00071,London,2022-04-16,Referral
+CUST00072,Glasgow,2023-04-22,Referral
+CUST00073,Manchester,2023-02-06,Organic
+CUST00074,Birmingham,2023-07-10,Email
+CUST00075,Manchester,2022-06-11,Organic
+CUST00076,Birmingham,2022-07-21,Social
+CUST00077,Liverpool,2022-09-27,Referral
+CUST00078,Manchester,2022-09-28,Paid Search
+CUST00079,Glasgow,2023-04-01,Referral
+CUST00080,Leeds,2023-04-07,Organic
+CUST00081,Bristol,2022-09-09,Referral
+CUST00082,Cardiff,2022-10-23,Paid Search
+CUST00083,Liverpool,2022-12-04,Paid Search
+CUST00084,London,2022-02-22,Email
+CUST00085,London,2022-08-05,Paid Search
+CUST00086,Manchester,2022-07-07,Email
+CUST00087,Glasgow,2023-01-15,Paid Search
+CUST00088,London,2023-05-08,Referral
+CUST00089,Leeds,2022-02-10,Referral
+CUST00090,Glasgow,2022-06-06,Organic
+CUST00091,Manchester,2022-01-15,Organic
+CUST00092,Liverpool,2022-03-06,Paid Search
+CUST00093,London,2023-06-05,Paid Search
+CUST00094,London,2022-12-10,Organic
+CUST00095,Liverpool,2022-05-09,Referral
+CUST00096,Leeds,2023-10-10,Social
+CUST00097,Bristol,2023-04-17,Email
+CUST00098,Birmingham,2022-03-04,Email
+CUST00099,Manchester,2022-05-19,Email
+CUST00100,Edinburgh,2023-05-14,Referral
+CUST00101,Edinburgh,2023-08-16,Paid Search
+CUST00102,Bristol,2023-01-27,Social
+CUST00103,Manchester,2023-11-06,Referral
+CUST00104,Glasgow,2023-02-23,Referral
+CUST00105,Birmingham,2022-10-16,Paid Search
+CUST00106,London,2023-01-14,Organic
+CUST00107,Sheffield,2023-05-05,Organic
+CUST00108,London,2022-08-19,Email
+CUST00109,Cardiff,2022-02-10,Organic
+CUST00110,Birmingham,2022-01-28,Organic
+CUST00111,London,2022-05-15,Social
+CUST00112,Leeds,2022-07-20,Paid Search
+CUST00113,Sheffield,2022-02-02,Organic
+CUST00114,Liverpool,2022-02-17,Paid Search
+CUST00115,Edinburgh,2023-05-18,Email
+CUST00116,Bristol,2023-02-11,Social
+CUST00117,Bristol,2023-07-28,Paid Search
+CUST00118,Edinburgh,2022-04-09,Email
+CUST00119,Manchester,2023-11-15,Paid Search
+CUST00120,Leeds,2023-07-01,Social
+CUST00121,Manchester,2023-09-05,Email
+CUST00122,Cardiff,2023-04-07,Email
+CUST00123,Cardiff,2023-10-05,Paid Search
+CUST00124,London,2022-01-05,Social
+CUST00125,Bristol,2022-08-06,Email
+CUST00126,Sheffield,2023-05-18,Organic
+CUST00127,London,2023-02-02,Email
+CUST00128,Glasgow,2023-01-28,Paid Search
+CUST00129,Sheffield,2022-07-26,Email
+CUST00130,London,2022-01-15,Paid Search
+CUST00131,Bristol,2023-07-08,Email
+CUST00132,Manchester,2023-04-06,Organic
+CUST00133,Sheffield,2023-11-22,Paid Search
+CUST00134,Cardiff,2023-07-29,Paid Search
+CUST00135,Cardiff,2022-08-29,Paid Search
+CUST00136,Leeds,2023-07-18,Organic
+CUST00137,Sheffield,2022-04-06,Organic
+CUST00138,Edinburgh,2023-04-30,Referral
+CUST00139,Manchester,2023-02-11,Paid Search
+CUST00140,Edinburgh,2022-08-19,Paid Search
+CUST00141,London,2023-10-17,Email
+CUST00142,Glasgow,2022-06-20,Paid Search
+CUST00143,Manchester,2023-06-25,Social
+CUST00144,London,2022-02-05,Email
+CUST00145,London,2023-06-09,Referral
+CUST00146,Bristol,2022-06-09,Referral
+CUST00147,Manchester,2023-11-30,Email
+CUST00148,Liverpool,2022-08-31,Paid Search
+CUST00149,London,2022-03-27,Paid Search
+CUST00150,Manchester,2023-08-01,Paid Search
+CUST00151,Leeds,2023-11-13,Email
+CUST00152,Edinburgh,2023-07-11,Paid Search
+CUST00153,Manchester,2023-07-28,Referral
+CUST00154,Glasgow,2023-10-08,Social
+CUST00155,Sheffield,2022-01-28,Email
+CUST00156,Glasgow,2023-09-12,Organic
+CUST00157,Manchester,2023-07-10,Paid Search
+CUST00158,London,2022-12-06,Email
+CUST00159,Sheffield,2022-11-27,Referral
+CUST00160,London,2023-10-02,Paid Search
+CUST00161,Sheffield,2023-05-21,Paid Search
+CUST00162,Leeds,2022-12-14,Social
+CUST00163,Cardiff,2023-04-18,Referral
+CUST00164,Edinburgh,2022-08-19,Email
+CUST00165,Cardiff,2022-07-09,Email
+CUST00166,Birmingham,2022-08-13,Referral
+CUST00167,Liverpool,2023-01-20,Organic
+CUST00168,Birmingham,2023-01-12,Organic
+CUST00169,Leeds,2022-10-10,Organic
+CUST00170,Glasgow,2023-09-25,Organic
+CUST00171,Sheffield,2023-09-20,Email
+CUST00172,Cardiff,2022-09-16,Referral
+CUST00173,Liverpool,2022-12-25,Email
+CUST00174,Birmingham,2023-04-01,Organic
+CUST00175,Birmingham,2023-02-15,Referral
+CUST00176,Liverpool,2023-10-11,Referral
+CUST00177,Manchester,2022-11-14,Referral
+CUST00178,London,2023-11-08,Email
+CUST00179,Birmingham,2022-08-13,Paid Search
+CUST00180,Manchester,2022-08-22,Organic
+CUST00181,Manchester,2023-11-15,Paid Search
+CUST00182,Manchester,2023-10-26,Organic
+CUST00183,London,2023-01-09,Organic
+CUST00184,London,2023-11-03,Referral
+CUST00185,Cardiff,2023-08-31,Social
+CUST00186,Birmingham,2023-04-17,Referral
+CUST00187,Birmingham,2022-08-21,Email
+CUST00188,Bristol,2023-11-23,Organic
+CUST00189,London,2022-04-23,Referral
+CUST00190,Cardiff,2023-05-12,Paid Search
+CUST00191,Liverpool,2023-03-18,Paid Search
+CUST00192,London,2023-07-18,Organic
+CUST00193,Birmingham,2022-09-25,Organic
+CUST00194,Sheffield,2023-05-25,Paid Search
+CUST00195,Cardiff,2023-01-21,Paid Search
+CUST00196,Leeds,2023-01-22,Paid Search
+CUST00197,Glasgow,2022-04-23,Social
+CUST00198,London,2023-09-05,Organic
+CUST00199,Cardiff,2023-09-17,Organic
+CUST00200,Manchester,2022-03-22,Paid Search
+CUST00201,Cardiff,2023-11-30,Referral
+CUST00202,Bristol,2022-04-23,Paid Search
+CUST00203,Glasgow,2022-01-02,Paid Search
+CUST00204,Leeds,2023-10-04,Organic
+CUST00205,Manchester,2022-08-08,Paid Search
+CUST00206,London,2023-07-20,Paid Search
+CUST00207,Manchester,2022-08-13,Paid Search
+CUST00208,London,2023-01-20,Paid Search
+CUST00209,Liverpool,2023-02-07,Paid Search
+CUST00210,Birmingham,2023-09-30,Organic
+CUST00211,London,2022-05-10,Email
+CUST00212,Cardiff,2022-02-22,Referral
+CUST00213,Sheffield,2023-11-15,Organic
+CUST00214,Sheffield,2023-11-03,Paid Search
+CUST00215,Cardiff,2023-02-20,Social
+CUST00216,London,2022-09-04,Organic
+CUST00217,Birmingham,2023-03-15,Paid Search
+CUST00218,Liverpool,2022-07-22,Referral
+CUST00219,Bristol,2022-07-03,Paid Search
+CUST00220,London,2022-05-03,Organic
+CUST00221,Edinburgh,2023-02-05,Organic
+CUST00222,Manchester,2022-10-21,Email
+CUST00223,Manchester,2022-10-07,Organic
+CUST00224,Leeds,2023-09-02,Email
+CUST00225,Glasgow,2022-07-17,Social
+CUST00226,Glasgow,2023-05-26,Paid Search
+CUST00227,London,2022-05-24,Paid Search
+CUST00228,Sheffield,2023-09-01,Organic
+CUST00229,Manchester,2022-07-20,Organic
+CUST00230,London,2022-05-04,Organic
+CUST00231,Sheffield,2022-07-06,Social
+CUST00232,Cardiff,2022-11-22,Email
+CUST00233,Sheffield,2023-04-09,Referral
+CUST00234,Edinburgh,2022-12-15,Organic
+CUST00235,Bristol,2023-10-22,Email
+CUST00236,Glasgow,2023-02-07,Social
+CUST00237,London,2022-12-12,Email
+CUST00238,Birmingham,2023-05-26,Paid Search
+CUST00239,Birmingham,2022-05-27,Referral
+CUST00240,Manchester,2022-05-28,Paid Search
+CUST00241,Liverpool,2023-05-04,Paid Search
+CUST00242,Leeds,2023-10-02,Paid Search
+CUST00243,London,2023-07-05,Referral
+CUST00244,Manchester,2022-12-04,Referral
+CUST00245,Bristol,2023-10-03,Paid Search
+CUST00246,London,2023-04-18,Organic
+CUST00247,Edinburgh,2022-05-31,Organic
+CUST00248,Leeds,2023-02-19,Organic
+CUST00249,Leeds,2022-10-25,Paid Search
+CUST00250,Glasgow,2023-09-03,Organic
+CUST00251,Edinburgh,2022-09-20,Email
+CUST00252,Manchester,2022-05-24,Paid Search
+CUST00253,Bristol,2022-12-12,Paid Search
+CUST00254,Glasgow,2023-09-16,Organic
+CUST00255,Manchester,2023-07-26,Social
+CUST00256,Sheffield,2022-01-02,Referral
+CUST00257,Edinburgh,2022-10-31,Referral
+CUST00258,Bristol,2022-09-11,Organic
+CUST00259,Edinburgh,2023-10-14,Referral
+CUST00260,Sheffield,2023-03-29,Paid Search
+CUST00261,Bristol,2022-02-06,Referral
+CUST00262,Edinburgh,2022-06-09,Social
+CUST00263,Bristol,2022-01-09,Referral
+CUST00264,Bristol,2022-08-21,Email
+CUST00265,Glasgow,2022-04-09,Email
+CUST00266,Liverpool,2023-10-21,Paid Search
+CUST00267,London,2022-07-27,Social
+CUST00268,Sheffield,2022-05-11,Paid Search
+CUST00269,Sheffield,2023-02-08,Organic
+CUST00270,London,2022-06-01,Paid Search
+CUST00271,Edinburgh,2022-02-23,Paid Search
+CUST00272,London,2022-04-30,Organic
+CUST00273,Manchester,2023-11-04,Paid Search
+CUST00274,Liverpool,2023-09-20,Organic
+CUST00275,London,2023-08-10,Referral
+CUST00276,Edinburgh,2023-09-17,Paid Search
+CUST00277,Edinburgh,2023-02-24,Paid Search
+CUST00278,Leeds,2023-02-26,Referral
+CUST00279,London,2022-04-14,Organic
+CUST00280,Manchester,2022-09-11,Email
+CUST00281,Glasgow,2022-08-15,Referral
+CUST00282,Cardiff,2022-04-22,Email
+CUST00283,Bristol,2023-05-25,Referral
+CUST00284,Manchester,2023-04-18,Organic
+CUST00285,Bristol,2022-04-09,Referral
+CUST00286,Leeds,2022-06-02,Paid Search
+CUST00287,Liverpool,2022-12-04,Organic
+CUST00288,London,2022-06-12,Email
+CUST00289,Liverpool,2023-11-12,Organic
+CUST00290,Leeds,2022-06-10,Email
+CUST00291,Cardiff,2023-08-03,Email
+CUST00292,Manchester,2023-02-02,Email
+CUST00293,Bristol,2022-10-04,Social
+CUST00294,Cardiff,2023-05-19,Organic
+CUST00295,London,2023-01-27,Organic
+CUST00296,Cardiff,2022-05-15,Referral
+CUST00297,Bristol,2022-07-14,Organic
+CUST00298,London,2023-02-05,Referral
+CUST00299,Manchester,2023-10-02,Email
+CUST00300,Bristol,2022-02-02,Referral
+CUST00301,London,2023-11-19,Organic
+CUST00302,Glasgow,2023-04-05,Paid Search
+CUST00303,Manchester,2023-04-15,Organic
+CUST00304,Glasgow,2023-01-10,Paid Search
+CUST00305,London,2022-01-22,Email
+CUST00306,Sheffield,2023-11-01,Organic
+CUST00307,Cardiff,2022-02-07,Paid Search
+CUST00308,Cardiff,2022-08-18,Paid Search
+CUST00309,Liverpool,2022-12-31,Referral
+CUST00310,London,2023-07-17,Referral
+CUST00311,Liverpool,2023-03-14,Organic
+CUST00312,London,2022-10-10,Paid Search
+CUST00313,London,2022-01-27,Organic
+CUST00314,Manchester,2022-08-14,Organic
+CUST00315,Leeds,2022-10-04,Referral
+CUST00316,Liverpool,2023-09-01,Referral
+CUST00317,Bristol,2022-10-11,Organic
+CUST00318,Birmingham,2023-04-26,Paid Search
+CUST00319,Manchester,2023-03-29,Social
+CUST00320,Cardiff,2023-10-21,Organic
+CUST00321,Birmingham,2023-05-31,Referral
+CUST00322,Birmingham,2023-07-01,Paid Search
+CUST00323,London,2022-07-11,Organic
+CUST00324,Edinburgh,2022-02-18,Paid Search
+CUST00325,Bristol,2023-05-27,Organic
+CUST00326,Manchester,2022-01-17,Social
+CUST00327,London,2022-06-21,Organic
+CUST00328,Bristol,2022-08-08,Paid Search
+CUST00329,Bristol,2022-06-07,Paid Search
+CUST00330,Manchester,2023-04-22,Organic
+CUST00331,Cardiff,2022-02-15,Paid Search
+CUST00332,London,2023-01-08,Paid Search
+CUST00333,Birmingham,2023-06-02,Email
+CUST00334,Cardiff,2022-04-09,Organic
+CUST00335,Birmingham,2022-02-06,Paid Search
+CUST00336,Bristol,2022-10-07,Social
+CUST00337,Birmingham,2022-12-15,Paid Search
+CUST00338,Manchester,2023-05-12,Social
+CUST00339,Cardiff,2022-10-29,Organic
+CUST00340,Birmingham,2022-06-30,Email
+CUST00341,Sheffield,2023-08-30,Referral
+CUST00342,Manchester,2022-04-09,Email
+CUST00343,London,2023-12-01,Social
+CUST00344,London,2022-04-26,Paid Search
+CUST00345,Bristol,2022-07-10,Social
+CUST00346,Birmingham,2022-09-10,Organic
+CUST00347,Sheffield,2022-06-10,Organic
+CUST00348,Leeds,2022-09-13,Organic
+CUST00349,Cardiff,2022-11-19,Organic
+CUST00350,London,2022-05-08,Paid Search
+CUST00351,Sheffield,2022-01-18,Referral
+CUST00352,Liverpool,2023-07-20,Organic
+CUST00353,Liverpool,2023-07-24,Email
+CUST00354,Edinburgh,2022-11-19,Email
+CUST00355,Liverpool,2023-11-17,Organic
+CUST00356,Glasgow,2023-09-18,Organic
+CUST00357,London,2022-10-15,Paid Search
+CUST00358,London,2023-10-25,Paid Search
+CUST00359,Sheffield,2023-10-01,Paid Search
+CUST00360,Glasgow,2022-06-04,Organic
+CUST00361,Edinburgh,2023-05-05,Paid Search
+CUST00362,Leeds,2023-01-21,Social
+CUST00363,London,2022-04-14,Referral
+CUST00364,London,2023-01-28,Organic
+CUST00365,Bristol,2022-09-03,Referral
+CUST00366,Birmingham,2022-06-25,Paid Search
+CUST00367,London,2022-02-08,Organic
+CUST00368,Leeds,2023-04-22,Referral
+CUST00369,London,2023-11-13,Organic
+CUST00370,Glasgow,2023-06-22,Organic
+CUST00371,Manchester,2023-02-12,Social
+CUST00372,Edinburgh,2023-06-09,Email
+CUST00373,Manchester,2023-05-21,Referral
+CUST00374,Birmingham,2022-02-05,Referral
+CUST00375,London,2023-11-16,Referral
+CUST00376,London,2022-01-20,Paid Search
+CUST00377,Birmingham,2022-11-17,Organic
+CUST00378,Leeds,2023-05-27,Paid Search
+CUST00379,Glasgow,2023-02-04,Organic
+CUST00380,Manchester,2023-10-16,Organic
+CUST00381,Bristol,2023-04-16,Paid Search
+CUST00382,Sheffield,2022-05-23,Social
+CUST00383,Liverpool,2022-04-02,Social
+CUST00384,London,2022-12-20,Email
+CUST00385,Leeds,2022-02-20,Organic
+CUST00386,London,2023-10-27,Email
+CUST00387,Manchester,2023-11-29,Paid Search
+CUST00388,Cardiff,2023-07-29,Email
+CUST00389,London,2022-07-09,Paid Search
+CUST00390,Leeds,2022-05-05,Email
+CUST00391,Glasgow,2022-05-30,Paid Search
+CUST00392,Bristol,2022-11-10,Email
+CUST00393,Glasgow,2023-07-24,Social
+CUST00394,London,2022-12-08,Paid Search
+CUST00395,Manchester,2022-11-01,Organic
+CUST00396,Leeds,2023-11-23,Social
+CUST00397,London,2023-11-13,Organic
+CUST00398,Birmingham,2022-02-23,Email
+CUST00399,London,2023-03-20,Referral
+CUST00400,London,2023-09-05,Organic
+CUST00401,Birmingham,2022-09-21,Paid Search
+CUST00402,London,2022-02-22,Paid Search
+CUST00403,Glasgow,2023-07-26,Email
+CUST00404,Bristol,2023-09-12,Organic
+CUST00405,Edinburgh,2022-01-05,Organic
+CUST00406,London,2022-04-13,Organic
+CUST00407,London,2022-07-15,Referral
+CUST00408,London,2022-12-16,Email
+CUST00409,Bristol,2022-02-16,Social
+CUST00410,Bristol,2023-10-18,Organic
+CUST00411,London,2022-09-26,Email
+CUST00412,Cardiff,2023-01-05,Email
+CUST00413,London,2023-09-28,Referral
+CUST00414,Leeds,2022-04-16,Social
+CUST00415,Bristol,2023-11-01,Paid Search
+CUST00416,Sheffield,2023-10-21,Paid Search
+CUST00417,Liverpool,2023-10-19,Email
+CUST00418,Edinburgh,2022-04-30,Organic
+CUST00419,Manchester,2023-08-27,Email
+CUST00420,Edinburgh,2022-02-27,Email
+CUST00421,London,2022-12-12,Paid Search
+CUST00422,Sheffield,2023-04-19,Email
+CUST00423,Leeds,2022-04-27,Organic
+CUST00424,Edinburgh,2022-05-07,Organic
+CUST00425,Birmingham,2023-01-28,Referral
+CUST00426,Bristol,2023-10-03,Social
+CUST00427,Leeds,2022-02-27,Paid Search
+CUST00428,Liverpool,2023-09-26,Organic
+CUST00429,London,2023-05-28,Referral
+CUST00430,London,2022-04-06,Email
+CUST00431,Manchester,2023-09-30,Referral
+CUST00432,London,2022-04-28,Paid Search
+CUST00433,Sheffield,2023-07-14,Paid Search
+CUST00434,London,2023-08-24,Organic
+CUST00435,Cardiff,2023-05-03,Email
+CUST00436,Manchester,2022-08-25,Paid Search
+CUST00437,London,2022-09-29,Paid Search
+CUST00438,Liverpool,2022-07-08,Social
+CUST00439,Bristol,2023-03-23,Paid Search
+CUST00440,Leeds,2023-08-04,Social
+CUST00441,Glasgow,2022-09-04,Referral
+CUST00442,Liverpool,2022-03-17,Email
+CUST00443,Manchester,2022-06-03,Paid Search
+CUST00444,Cardiff,2023-10-18,Paid Search
+CUST00445,Cardiff,2023-03-11,Email
+CUST00446,Bristol,2022-03-27,Email
+CUST00447,London,2023-11-28,Email
+CUST00448,Bristol,2022-10-12,Paid Search
+CUST00449,London,2022-08-08,Email
+CUST00450,London,2022-03-10,Email
+CUST00451,Manchester,2022-02-16,Referral
+CUST00452,Leeds,2022-04-04,Email
+CUST00453,Sheffield,2023-03-29,Email
+CUST00454,Liverpool,2022-07-23,Referral
+CUST00455,Liverpool,2022-08-06,Paid Search
+CUST00456,Birmingham,2023-04-19,Organic
+CUST00457,Manchester,2023-03-08,Paid Search
+CUST00458,Birmingham,2022-12-07,Organic
+CUST00459,Cardiff,2023-07-05,Organic
+CUST00460,London,2023-09-04,Paid Search
+CUST00461,Sheffield,2022-10-16,Organic
+CUST00462,Glasgow,2022-09-11,Paid Search
+CUST00463,Birmingham,2022-12-23,Email
+CUST00464,Liverpool,2022-01-23,Social
+CUST00465,Leeds,2023-06-06,Paid Search
+CUST00466,Sheffield,2022-04-10,Social
+CUST00467,Sheffield,2022-06-29,Organic
+CUST00468,Birmingham,2022-08-11,Paid Search
+CUST00469,Manchester,2023-10-21,Paid Search
+CUST00470,Glasgow,2023-03-18,Organic
+CUST00471,Sheffield,2023-08-31,Email
+CUST00472,London,2022-11-21,Email
+CUST00473,Glasgow,2023-05-31,Paid Search
+CUST00474,Bristol,2022-01-16,Paid Search
+CUST00475,Liverpool,2022-12-02,Organic
+CUST00476,London,2022-09-15,Paid Search
+CUST00477,Liverpool,2023-05-12,Paid Search
+CUST00478,Sheffield,2022-06-09,Paid Search
+CUST00479,London,2023-04-20,Email
+CUST00480,Manchester,2023-10-26,Social
+CUST00481,Cardiff,2023-11-21,Organic
+CUST00482,London,2023-11-06,Social
+CUST00483,Edinburgh,2023-01-15,Organic
+CUST00484,Leeds,2023-06-29,Organic
+CUST00485,Manchester,2023-11-22,Paid Search
+CUST00486,Sheffield,2023-03-03,Referral
+CUST00487,Birmingham,2023-09-05,Social
+CUST00488,Leeds,2022-09-25,Referral
+CUST00489,Birmingham,2023-07-31,Organic
+CUST00490,Glasgow,2023-02-21,Referral
+CUST00491,London,2022-06-17,Paid Search
+CUST00492,Birmingham,2022-02-12,Email
+CUST00493,Cardiff,2023-07-10,Organic
+CUST00494,Manchester,2022-10-12,Organic
+CUST00495,Bristol,2023-02-01,Referral
+CUST00496,Manchester,2022-01-12,Referral
+CUST00497,Liverpool,2023-08-30,Paid Search
+CUST00498,London,2022-10-29,Referral
+CUST00499,Cardiff,2022-09-10,Paid Search
+CUST00500,Birmingham,2023-05-14,Email
+CUST00501,Manchester,2022-02-04,Email
+CUST00502,London,2022-03-31,Email
+CUST00503,London,2023-08-28,Referral
+CUST00504,Leeds,2023-08-25,Organic
+CUST00505,Manchester,2023-02-22,Paid Search
+CUST00506,Edinburgh,2022-04-25,Email
+CUST00507,Birmingham,2023-09-09,Paid Search
+CUST00508,Manchester,2022-07-15,Organic
+CUST00509,Glasgow,2023-05-16,Paid Search
+CUST00510,Bristol,2023-09-18,Paid Search
+CUST00511,London,2023-05-08,Referral
+CUST00512,London,2022-03-16,Paid Search
+CUST00513,London,2023-02-17,Email
+CUST00514,Liverpool,2023-01-11,Organic
+CUST00515,Bristol,2023-02-24,Paid Search
+CUST00516,Leeds,2022-10-04,Organic
+CUST00517,Edinburgh,2023-11-07,Paid Search
+CUST00518,Edinburgh,2023-01-29,Paid Search
+CUST00519,Glasgow,2023-04-02,Email
+CUST00520,Sheffield,2022-07-11,Paid Search
+CUST00521,London,2023-11-20,Email
+CUST00522,London,2022-04-09,Paid Search
+CUST00523,Manchester,2023-07-02,Paid Search
+CUST00524,London,2022-04-06,Email
+CUST00525,Leeds,2023-10-26,Organic
+CUST00526,Cardiff,2023-10-25,Paid Search
+CUST00527,London,2022-07-09,Organic
+CUST00528,London,2022-02-06,Paid Search
+CUST00529,Birmingham,2023-01-04,Email
+CUST00530,Cardiff,2023-11-26,Organic
+CUST00531,Manchester,2023-06-09,Email
+CUST00532,Leeds,2022-10-06,Email
+CUST00533,London,2022-08-05,Organic
+CUST00534,London,2022-09-30,Social
+CUST00535,Cardiff,2022-03-03,Organic
+CUST00536,Cardiff,2023-08-19,Social
+CUST00537,London,2022-12-08,Paid Search
+CUST00538,Cardiff,2023-02-01,Referral
+CUST00539,Bristol,2023-11-30,Organic
+CUST00540,Sheffield,2022-01-19,Organic
+CUST00541,Birmingham,2022-06-26,Referral
+CUST00542,Leeds,2023-09-04,Email
+CUST00543,Leeds,2023-01-31,Paid Search
+CUST00544,Bristol,2023-03-21,Paid Search
+CUST00545,London,2022-08-21,Email
+CUST00546,London,2022-03-17,Referral
+CUST00547,Manchester,2022-09-22,Social
+CUST00548,Bristol,2023-03-31,Email
+CUST00549,London,2023-01-19,Social
+CUST00550,Bristol,2023-07-18,Email
+CUST00551,Cardiff,2023-05-21,Paid Search
+CUST00552,London,2023-01-02,Paid Search
+CUST00553,Bristol,2022-05-24,Email
+CUST00554,Birmingham,2022-03-10,Referral
+CUST00555,Sheffield,2022-04-09,Paid Search
+CUST00556,London,2023-01-31,Organic
+CUST00557,Bristol,2022-01-25,Social
+CUST00558,Edinburgh,2023-04-14,Organic
+CUST00559,Cardiff,2023-04-29,Organic
+CUST00560,Bristol,2023-07-19,Organic
+CUST00561,Leeds,2022-05-31,Paid Search
+CUST00562,Glasgow,2022-05-24,Organic
+CUST00563,Sheffield,2023-07-23,Organic
+CUST00564,Glasgow,2022-02-08,Paid Search
+CUST00565,London,2022-04-19,Email
+CUST00566,Cardiff,2023-11-24,Organic
+CUST00567,Bristol,2022-02-11,Email
+CUST00568,Bristol,2022-07-05,Email
+CUST00569,London,2023-02-02,Paid Search
+CUST00570,Bristol,2022-08-11,Referral
+CUST00571,Birmingham,2023-09-26,Organic
+CUST00572,Bristol,2022-05-13,Email
+CUST00573,London,2022-06-12,Paid Search
+CUST00574,Bristol,2022-08-03,Referral
+CUST00575,Cardiff,2022-08-23,Referral
+CUST00576,London,2023-10-20,Paid Search
+CUST00577,Cardiff,2023-08-11,Paid Search
+CUST00578,Birmingham,2022-01-09,Referral
+CUST00579,Sheffield,2022-03-15,Email
+CUST00580,Liverpool,2023-05-07,Organic
+CUST00581,Glasgow,2022-09-10,Referral
+CUST00582,Liverpool,2022-08-18,Organic
+CUST00583,Sheffield,2023-06-03,Email
+CUST00584,Birmingham,2022-06-23,Paid Search
+CUST00585,Manchester,2023-10-15,Email
+CUST00586,Bristol,2022-06-17,Paid Search
+CUST00587,Edinburgh,2022-06-19,Organic
+CUST00588,Liverpool,2023-01-28,Paid Search
+CUST00589,Edinburgh,2023-09-26,Paid Search
+CUST00590,Birmingham,2022-07-13,Organic
+CUST00591,Edinburgh,2023-06-01,Paid Search
+CUST00592,London,2022-01-29,Email
+CUST00593,Leeds,2022-06-14,Paid Search
+CUST00594,London,2023-02-26,Organic
+CUST00595,Manchester,2022-12-05,Organic
+CUST00596,Birmingham,2023-10-10,Paid Search
+CUST00597,Birmingham,2023-05-11,Paid Search
+CUST00598,Bristol,2022-12-31,Organic
+CUST00599,Birmingham,2022-12-08,Organic
+CUST00600,Birmingham,2023-05-15,Organic
+CUST00601,Manchester,2023-10-19,Organic
+CUST00602,Birmingham,2023-05-26,Referral
+CUST00603,Manchester,2022-11-23,Paid Search
+CUST00604,London,2022-08-05,Organic
+CUST00605,Glasgow,2022-10-28,Social
+CUST00606,Bristol,2022-05-12,Organic
+CUST00607,Glasgow,2022-03-11,Referral
+CUST00608,Leeds,2022-09-09,Organic
+CUST00609,Birmingham,2023-02-19,Email
+CUST00610,Sheffield,2023-03-21,Email
+CUST00611,Leeds,2022-07-01,Organic
+CUST00612,Leeds,2022-06-16,Social
+CUST00613,London,2022-04-01,Paid Search
+CUST00614,Manchester,2023-06-15,Paid Search
+CUST00615,Birmingham,2022-02-08,Email
+CUST00616,Birmingham,2022-05-06,Email
+CUST00617,Glasgow,2023-03-27,Paid Search
+CUST00618,Leeds,2022-06-22,Paid Search
+CUST00619,Glasgow,2023-10-15,Paid Search
+CUST00620,Liverpool,2022-08-08,Paid Search
+CUST00621,Edinburgh,2023-09-30,Email
+CUST00622,Liverpool,2022-02-27,Organic
+CUST00623,Cardiff,2023-10-22,Organic
+CUST00624,London,2023-04-21,Organic
+CUST00625,London,2023-04-01,Paid Search
+CUST00626,London,2022-12-27,Paid Search
+CUST00627,Bristol,2022-01-01,Referral
+CUST00628,Sheffield,2023-01-22,Social
+CUST00629,Manchester,2022-12-14,Email
+CUST00630,Sheffield,2022-07-09,Paid Search
+CUST00631,London,2023-05-20,Email
+CUST00632,Cardiff,2022-07-10,Email
+CUST00633,Birmingham,2023-05-23,Email
+CUST00634,London,2023-01-04,Organic
+CUST00635,Leeds,2023-02-13,Organic
+CUST00636,Manchester,2022-04-27,Organic
+CUST00637,Manchester,2022-05-14,Paid Search
+CUST00638,Manchester,2022-02-27,Paid Search
+CUST00639,Edinburgh,2023-07-10,Paid Search
+CUST00640,Leeds,2023-11-16,Organic
+CUST00641,Manchester,2023-11-03,Email
+CUST00642,Glasgow,2022-06-22,Organic
+CUST00643,Liverpool,2022-05-29,Paid Search
+CUST00644,Manchester,2022-03-21,Social
+CUST00645,Birmingham,2022-08-01,Social
+CUST00646,London,2022-07-22,Email
+CUST00647,London,2022-08-17,Social
+CUST00648,Bristol,2023-11-07,Organic
+CUST00649,London,2022-08-15,Social
+CUST00650,Leeds,2023-10-21,Paid Search
+CUST00651,Bristol,2023-06-16,Organic
+CUST00652,London,2023-03-17,Paid Search
+CUST00653,Glasgow,2023-02-06,Paid Search
+CUST00654,Manchester,2022-02-16,Paid Search
+CUST00655,Cardiff,2022-08-21,Referral
+CUST00656,Leeds,2022-11-01,Email
+CUST00657,Edinburgh,2023-06-10,Referral
+CUST00658,Glasgow,2022-05-23,Paid Search
+CUST00659,London,2023-02-19,Email
+CUST00660,Bristol,2023-05-28,Referral
+CUST00661,Cardiff,2023-01-08,Organic
+CUST00662,Glasgow,2023-07-20,Referral
+CUST00663,Edinburgh,2022-09-16,Paid Search
+CUST00664,Sheffield,2023-10-18,Organic
+CUST00665,Manchester,2023-04-16,Social
+CUST00666,London,2022-01-12,Paid Search
+CUST00667,Glasgow,2022-11-26,Organic
+CUST00668,Birmingham,2022-12-24,Email
+CUST00669,Edinburgh,2023-02-12,Email
+CUST00670,Sheffield,2023-10-30,Paid Search
+CUST00671,Birmingham,2023-01-08,Paid Search
+CUST00672,Manchester,2022-01-08,Paid Search
+CUST00673,Liverpool,2022-05-02,Referral
+CUST00674,Manchester,2022-12-14,Organic
+CUST00675,Edinburgh,2023-11-07,Paid Search
+CUST00676,Birmingham,2022-03-31,Social
+CUST00677,Bristol,2023-10-10,Organic
+CUST00678,London,2023-11-29,Paid Search
+CUST00679,Glasgow,2022-11-12,Organic
+CUST00680,Birmingham,2022-06-27,Referral
+CUST00681,Glasgow,2023-06-24,Paid Search
+CUST00682,London,2022-02-10,Paid Search
+CUST00683,Liverpool,2023-05-17,Email
+CUST00684,Sheffield,2022-05-25,Organic
+CUST00685,London,2022-07-20,Organic
+CUST00686,London,2023-04-06,Organic
+CUST00687,London,2023-07-12,Paid Search
+CUST00688,Bristol,2023-07-01,Paid Search
+CUST00689,Glasgow,2022-09-10,Organic
+CUST00690,Leeds,2023-01-25,Paid Search
+CUST00691,Manchester,2023-08-17,Paid Search
+CUST00692,Birmingham,2022-09-13,Email
+CUST00693,Glasgow,2023-03-26,Social
+CUST00694,Leeds,2022-01-10,Email
+CUST00695,Cardiff,2022-08-30,Email
+CUST00696,London,2022-09-08,Paid Search
+CUST00697,Bristol,2022-01-05,Social
+CUST00698,Birmingham,2022-04-29,Paid Search
+CUST00699,Birmingham,2023-01-09,Social
+CUST00700,Liverpool,2022-03-06,Social
+CUST00701,Bristol,2022-05-26,Email
+CUST00702,Cardiff,2022-08-12,Social
+CUST00703,London,2022-08-27,Referral
+CUST00704,London,2022-06-26,Paid Search
+CUST00705,Liverpool,2022-10-09,Organic
+CUST00706,Glasgow,2022-03-04,Referral
+CUST00707,Manchester,2022-08-05,Paid Search
+CUST00708,London,2023-11-20,Referral
+CUST00709,London,2023-04-06,Social
+CUST00710,Sheffield,2023-09-02,Paid Search
+CUST00711,London,2022-04-15,Email
+CUST00712,Manchester,2022-04-09,Social
+CUST00713,Manchester,2023-05-26,Social
+CUST00714,Birmingham,2023-01-20,Social
+CUST00715,London,2023-02-09,Organic
+CUST00716,Leeds,2023-06-02,Social
+CUST00717,London,2023-04-21,Email
+CUST00718,Edinburgh,2023-10-07,Paid Search
+CUST00719,Manchester,2023-03-13,Organic
+CUST00720,Leeds,2022-01-23,Email
+CUST00721,Sheffield,2023-07-19,Paid Search
+CUST00722,Bristol,2023-11-08,Referral
+CUST00723,Leeds,2023-04-03,Referral
+CUST00724,Manchester,2022-03-24,Paid Search
+CUST00725,Manchester,2022-05-25,Referral
+CUST00726,Bristol,2022-03-26,Email
+CUST00727,Cardiff,2022-03-19,Organic
+CUST00728,Bristol,2023-04-02,Paid Search
+CUST00729,Glasgow,2022-01-01,Paid Search
+CUST00730,Liverpool,2022-02-20,Organic
+CUST00731,Leeds,2023-11-16,Social
+CUST00732,London,2023-03-22,Paid Search
+CUST00733,Glasgow,2023-03-25,Referral
+CUST00734,Cardiff,2023-05-03,Paid Search
+CUST00735,London,2022-02-03,Organic
+CUST00736,Bristol,2022-12-14,Email
+CUST00737,London,2022-04-05,Email
+CUST00738,Leeds,2022-03-13,Paid Search
+CUST00739,London,2023-07-05,Organic
+CUST00740,Birmingham,2022-06-03,Paid Search
+CUST00741,Liverpool,2022-09-07,Organic
+CUST00742,Manchester,2023-11-05,Referral
+CUST00743,Bristol,2023-03-14,Paid Search
+CUST00744,Edinburgh,2022-04-28,Paid Search
+CUST00745,Sheffield,2022-11-02,Organic
+CUST00746,Manchester,2022-09-25,Social
+CUST00747,Birmingham,2022-02-23,Social
+CUST00748,London,2022-08-24,Paid Search
+CUST00749,Cardiff,2023-01-24,Email
+CUST00750,Sheffield,2023-02-05,Organic
+CUST00751,Leeds,2023-09-16,Organic
+CUST00752,Edinburgh,2022-10-30,Email
+CUST00753,Leeds,2022-07-26,Social
+CUST00754,Glasgow,2022-08-17,Social
+CUST00755,London,2023-08-01,Referral
+CUST00756,Liverpool,2022-03-16,Organic
+CUST00757,London,2023-03-11,Email
+CUST00758,Edinburgh,2022-04-13,Paid Search
+CUST00759,Liverpool,2023-02-26,Referral
+CUST00760,Bristol,2022-11-02,Organic
+CUST00761,London,2022-04-08,Referral
+CUST00762,Manchester,2022-12-01,Paid Search
+CUST00763,Manchester,2023-03-11,Paid Search
+CUST00764,Birmingham,2023-03-23,Social
+CUST00765,London,2022-11-04,Paid Search
+CUST00766,Cardiff,2022-09-06,Organic
+CUST00767,Glasgow,2022-06-15,Paid Search
+CUST00768,Manchester,2023-04-26,Paid Search
+CUST00769,Birmingham,2022-12-01,Paid Search
+CUST00770,Birmingham,2023-06-26,Paid Search
+CUST00771,Glasgow,2022-04-16,Email
+CUST00772,Leeds,2023-07-17,Paid Search
+CUST00773,Sheffield,2022-03-22,Social
+CUST00774,Leeds,2022-05-13,Referral
+CUST00775,Cardiff,2022-05-18,Organic
+CUST00776,Edinburgh,2022-07-03,Referral
+CUST00777,London,2023-02-05,Organic
+CUST00778,Cardiff,2022-11-26,Email
+CUST00779,London,2023-05-23,Paid Search
+CUST00780,Edinburgh,2022-03-10,Organic
+CUST00781,Birmingham,2023-06-30,Email
+CUST00782,Sheffield,2022-02-22,Social
+CUST00783,Sheffield,2023-03-26,Email
+CUST00784,Edinburgh,2022-07-24,Organic
+CUST00785,Edinburgh,2022-05-06,Email
+CUST00786,Manchester,2022-02-12,Organic
+CUST00787,London,2022-04-21,Organic
+CUST00788,Birmingham,2023-10-25,Paid Search
+CUST00789,London,2022-07-02,Referral
+CUST00790,Bristol,2022-04-05,Paid Search
+CUST00791,Manchester,2023-01-09,Organic
+CUST00792,Cardiff,2023-06-04,Email
+CUST00793,Bristol,2022-12-26,Paid Search
+CUST00794,Edinburgh,2023-11-27,Paid Search
+CUST00795,London,2022-10-08,Paid Search
+CUST00796,Sheffield,2022-07-14,Social
+CUST00797,Sheffield,2022-07-14,Organic
+CUST00798,Leeds,2023-10-29,Organic
+CUST00799,Glasgow,2022-04-03,Email
+CUST00800,Liverpool,2023-11-03,Email
+CUST00801,London,2022-03-02,Organic
+CUST00802,Leeds,2023-09-26,Referral
+CUST00803,Birmingham,2022-02-20,Email
+CUST00804,London,2023-02-07,Referral
+CUST00805,Birmingham,2022-01-05,Paid Search
+CUST00806,London,2023-04-11,Email
+CUST00807,London,2023-08-27,Organic
+CUST00808,London,2023-11-13,Paid Search
+CUST00809,Cardiff,2023-06-18,Organic
+CUST00810,Leeds,2023-02-09,Paid Search
+CUST00811,Cardiff,2023-05-28,Paid Search
+CUST00812,Birmingham,2023-10-07,Email
+CUST00813,Manchester,2022-08-21,Paid Search
+CUST00814,Leeds,2023-06-08,Organic
+CUST00815,Birmingham,2022-12-12,Organic
+CUST00816,London,2022-02-15,Paid Search
+CUST00817,Bristol,2023-06-30,Social
+CUST00818,London,2022-03-19,Paid Search
+CUST00819,Glasgow,2022-03-14,Organic
+CUST00820,Bristol,2022-09-06,Organic
+CUST00821,London,2022-02-16,Paid Search
+CUST00822,London,2022-05-01,Paid Search
+CUST00823,Liverpool,2022-08-02,Email
+CUST00824,Birmingham,2022-08-27,Social
+CUST00825,London,2022-02-25,Paid Search
+CUST00826,Cardiff,2022-12-16,Referral
+CUST00827,London,2022-04-17,Email
+CUST00828,Bristol,2022-02-17,Email
+CUST00829,Cardiff,2023-07-27,Organic
+CUST00830,Manchester,2022-12-03,Organic
+CUST00831,London,2022-01-26,Organic
+CUST00832,London,2022-09-14,Email
+CUST00833,Manchester,2022-01-08,Email
+CUST00834,London,2023-09-17,Paid Search
+CUST00835,Bristol,2022-09-10,Organic
+CUST00836,London,2023-11-23,Social
+CUST00837,Leeds,2022-10-30,Email
+CUST00838,Cardiff,2023-10-01,Social
+CUST00839,Edinburgh,2022-02-25,Email
+CUST00840,Glasgow,2023-06-10,Organic
+CUST00841,Manchester,2023-04-19,Referral
+CUST00842,Glasgow,2022-01-28,Referral
+CUST00843,Leeds,2022-03-19,Paid Search
+CUST00844,Birmingham,2022-08-04,Organic
+CUST00845,London,2023-01-21,Email
+CUST00846,Sheffield,2022-12-31,Paid Search
+CUST00847,Birmingham,2023-10-28,Email
+CUST00848,London,2023-06-10,Referral
+CUST00849,Birmingham,2023-11-30,Social
+CUST00850,Birmingham,2022-11-08,Paid Search
+CUST00851,Edinburgh,2022-01-07,Paid Search
+CUST00852,Liverpool,2022-01-03,Referral
+CUST00853,Liverpool,2023-09-15,Paid Search
+CUST00854,London,2022-12-29,Email
+CUST00855,Birmingham,2023-05-23,Email
+CUST00856,Leeds,2022-10-01,Paid Search
+CUST00857,London,2023-05-21,Organic
+CUST00858,Manchester,2022-01-15,Organic
+CUST00859,Liverpool,2022-07-11,Organic
+CUST00860,London,2023-09-23,Social
+CUST00861,Leeds,2023-04-30,Email
+CUST00862,London,2022-01-28,Referral
+CUST00863,London,2022-02-08,Email
+CUST00864,Manchester,2022-09-30,Organic
+CUST00865,Cardiff,2022-08-19,Social
+CUST00866,Edinburgh,2022-03-27,Referral
+CUST00867,Cardiff,2023-04-19,Email
+CUST00868,Leeds,2022-05-06,Email
+CUST00869,London,2023-06-21,Paid Search
+CUST00870,Leeds,2022-05-25,Email
+CUST00871,Birmingham,2023-06-09,Paid Search
+CUST00872,Edinburgh,2022-07-31,Organic
+CUST00873,London,2022-01-25,Organic
+CUST00874,Leeds,2023-08-03,Social
+CUST00875,London,2023-01-29,Email
+CUST00876,Manchester,2022-03-08,Email
+CUST00877,Liverpool,2022-08-21,Email
+CUST00878,Leeds,2022-04-19,Referral
+CUST00879,Birmingham,2022-05-26,Social
+CUST00880,Birmingham,2022-04-21,Organic
+CUST00881,Birmingham,2022-08-16,Organic
+CUST00882,Liverpool,2022-04-21,Paid Search
+CUST00883,Sheffield,2023-04-15,Email
+CUST00884,Cardiff,2022-02-03,Email
+CUST00885,Liverpool,2023-09-15,Organic
+CUST00886,Manchester,2023-01-04,Paid Search
+CUST00887,Bristol,2023-08-18,Email
+CUST00888,Birmingham,2023-07-08,Paid Search
+CUST00889,Manchester,2023-03-01,Email
+CUST00890,Edinburgh,2023-09-05,Social
+CUST00891,London,2023-06-02,Organic
+CUST00892,Sheffield,2023-11-23,Paid Search
+CUST00893,Leeds,2022-10-09,Email
+CUST00894,Bristol,2022-11-16,Email
+CUST00895,Bristol,2023-03-19,Organic
+CUST00896,Sheffield,2022-11-11,Social
+CUST00897,Bristol,2023-01-12,Paid Search
+CUST00898,Glasgow,2022-10-16,Organic
+CUST00899,London,2023-03-13,Email
+CUST00900,Leeds,2023-10-24,Email
+CUST00901,London,2022-10-04,Paid Search
+CUST00902,Liverpool,2023-08-05,Email
+CUST00903,Leeds,2023-05-18,Referral
+CUST00904,Bristol,2023-09-16,Organic
+CUST00905,London,2023-05-31,Paid Search
+CUST00906,London,2022-12-16,Email
+CUST00907,Liverpool,2023-03-22,Paid Search
+CUST00908,London,2022-12-16,Organic
+CUST00909,London,2023-08-30,Paid Search
+CUST00910,London,2023-10-26,Email
+CUST00911,Cardiff,2022-05-17,Referral
+CUST00912,Liverpool,2022-08-31,Email
+CUST00913,Birmingham,2023-06-27,Paid Search
+CUST00914,Manchester,2022-02-09,Referral
+CUST00915,Manchester,2022-08-17,Referral
+CUST00916,Liverpool,2023-07-02,Email
+CUST00917,Bristol,2022-08-11,Social
+CUST00918,London,2022-01-06,Paid Search
+CUST00919,London,2022-11-18,Referral
+CUST00920,London,2023-04-13,Paid Search
+CUST00921,Bristol,2022-03-16,Organic
+CUST00922,Liverpool,2022-01-04,Paid Search
+CUST00923,Manchester,2023-10-08,Organic
+CUST00924,London,2022-04-28,Organic
+CUST00925,London,2023-08-29,Referral
+CUST00926,Cardiff,2023-05-19,Organic
+CUST00927,Manchester,2023-07-28,Email
+CUST00928,Liverpool,2023-03-17,Organic
+CUST00929,Glasgow,2022-07-13,Paid Search
+CUST00930,Birmingham,2023-01-27,Email
+CUST00931,London,2022-01-26,Paid Search
+CUST00932,London,2023-03-11,Organic
+CUST00933,Glasgow,2022-06-22,Referral
+CUST00934,Liverpool,2022-10-27,Organic
+CUST00935,Bristol,2023-10-07,Paid Search
+CUST00936,Leeds,2022-11-22,Organic
+CUST00937,London,2023-02-14,Social
+CUST00938,Cardiff,2022-04-28,Referral
+CUST00939,Edinburgh,2022-08-13,Referral
+CUST00940,Manchester,2023-06-16,Referral
+CUST00941,Cardiff,2022-04-23,Paid Search
+CUST00942,Glasgow,2022-05-20,Organic
+CUST00943,Glasgow,2023-07-13,Email
+CUST00944,Liverpool,2022-01-01,Paid Search
+CUST00945,Edinburgh,2022-03-31,Paid Search
+CUST00946,Bristol,2023-10-16,Paid Search
+CUST00947,London,2022-11-16,Organic
+CUST00948,Manchester,2023-07-04,Social
+CUST00949,Sheffield,2022-05-19,Paid Search
+CUST00950,Manchester,2023-05-26,Organic
+CUST00951,Birmingham,2022-09-16,Paid Search
+CUST00952,Birmingham,2023-11-04,Social
+CUST00953,Birmingham,2023-11-21,Paid Search
+CUST00954,Glasgow,2022-01-10,Organic
+CUST00955,Cardiff,2022-09-18,Email
+CUST00956,Manchester,2023-10-12,Email
+CUST00957,London,2022-06-21,Organic
+CUST00958,London,2022-01-13,Organic
+CUST00959,Sheffield,2022-06-17,Organic
+CUST00960,Bristol,2023-10-04,Paid Search
+CUST00961,Manchester,2023-08-19,Paid Search
+CUST00962,Edinburgh,2022-11-17,Organic
+CUST00963,Sheffield,2022-11-15,Paid Search
+CUST00964,Edinburgh,2023-09-05,Paid Search
+CUST00965,Sheffield,2022-11-25,Referral
+CUST00966,Manchester,2023-07-04,Social
+CUST00967,Liverpool,2023-02-23,Referral
+CUST00968,Leeds,2023-08-29,Paid Search
+CUST00969,Edinburgh,2022-04-05,Paid Search
+CUST00970,Liverpool,2023-08-04,Social
+CUST00971,Liverpool,2022-11-14,Paid Search
+CUST00972,Bristol,2022-08-24,Paid Search
+CUST00973,London,2022-11-30,Referral
+CUST00974,Leeds,2023-01-11,Referral
+CUST00975,Cardiff,2023-04-04,Referral
+CUST00976,Cardiff,2022-05-17,Paid Search
+CUST00977,London,2023-08-11,Paid Search
+CUST00978,London,2023-07-01,Social
+CUST00979,London,2023-05-28,Paid Search
+CUST00980,Liverpool,2022-10-23,Referral
+CUST00981,Edinburgh,2022-11-16,Email
+CUST00982,London,2023-07-26,Referral
+CUST00983,Leeds,2022-12-15,Organic
+CUST00984,Edinburgh,2022-08-17,Paid Search
+CUST00985,Liverpool,2022-09-27,Referral
+CUST00986,Leeds,2022-10-18,Email
+CUST00987,Glasgow,2022-06-14,Social
+CUST00988,Leeds,2022-01-05,Paid Search
+CUST00989,Manchester,2023-01-14,Paid Search
+CUST00990,Glasgow,2022-03-19,Social
+CUST00991,Bristol,2023-02-14,Email
+CUST00992,Sheffield,2023-07-28,Email
+CUST00993,Bristol,2022-05-12,Paid Search
+CUST00994,Liverpool,2023-08-24,Referral
+CUST00995,London,2022-02-11,Email
+CUST00996,Leeds,2022-03-30,Referral
+CUST00997,London,2023-02-06,Organic
+CUST00998,Manchester,2022-10-23,Paid Search
+CUST00999,Liverpool,2022-10-22,Referral
+CUST01000,Cardiff,2023-09-08,Paid Search
+CUST01001,London,2023-06-10,Organic
+CUST01002,Birmingham,2023-11-22,Social
+CUST01003,Edinburgh,2023-09-29,Organic
+CUST01004,London,2023-02-26,Email
+CUST01005,Glasgow,2022-01-23,Paid Search
+CUST01006,Liverpool,2023-07-29,Referral
+CUST01007,Glasgow,2022-05-23,Social
+CUST01008,London,2023-10-27,Paid Search
+CUST01009,Birmingham,2022-05-25,Paid Search
+CUST01010,Liverpool,2022-08-13,Organic
+CUST01011,Glasgow,2023-05-18,Paid Search
+CUST01012,London,2023-09-08,Email
+CUST01013,Liverpool,2022-04-14,Social
+CUST01014,London,2022-02-08,Organic
+CUST01015,Liverpool,2022-07-17,Paid Search
+CUST01016,London,2023-10-08,Organic
+CUST01017,Cardiff,2023-08-02,Email
+CUST01018,Birmingham,2023-01-26,Paid Search
+CUST01019,Manchester,2022-06-28,Referral
+CUST01020,London,2023-07-08,Referral
+CUST01021,Manchester,2023-03-24,Referral
+CUST01022,Sheffield,2023-05-15,Paid Search
+CUST01023,Cardiff,2022-01-15,Email
+CUST01024,Birmingham,2023-09-15,Paid Search
+CUST01025,Birmingham,2023-10-31,Paid Search
+CUST01026,Liverpool,2022-10-16,Email
+CUST01027,Sheffield,2023-04-23,Email
+CUST01028,Glasgow,2022-08-19,Paid Search
+CUST01029,Birmingham,2023-02-24,Paid Search
+CUST01030,Birmingham,2022-06-06,Paid Search
+CUST01031,Bristol,2023-07-04,Paid Search
+CUST01032,London,2023-03-17,Paid Search
+CUST01033,Glasgow,2022-04-07,Paid Search
+CUST01034,Birmingham,2023-02-15,Organic
+CUST01035,Edinburgh,2022-10-16,Email
+CUST01036,London,2022-09-11,Referral
+CUST01037,Glasgow,2022-07-15,Referral
+CUST01038,Leeds,2023-08-21,Paid Search
+CUST01039,Bristol,2023-06-06,Social
+CUST01040,London,2023-06-01,Email
+CUST01041,Glasgow,2023-09-27,Email
+CUST01042,Glasgow,2022-04-28,Email
+CUST01043,Glasgow,2022-06-08,Social
+CUST01044,Glasgow,2022-08-16,Organic
+CUST01045,Bristol,2022-08-04,Paid Search
+CUST01046,Edinburgh,2023-11-27,Referral
+CUST01047,Manchester,2022-01-15,Email
+CUST01048,Edinburgh,2022-06-06,Email
+CUST01049,Leeds,2023-10-10,Organic
+CUST01050,London,2022-09-18,Paid Search
+CUST01051,London,2022-06-06,Organic
+CUST01052,Manchester,2022-02-16,Social
+CUST01053,Liverpool,2022-11-20,Referral
+CUST01054,Bristol,2023-11-16,Organic
+CUST01055,Liverpool,2022-05-10,Paid Search
+CUST01056,Leeds,2023-02-15,Organic
+CUST01057,Birmingham,2022-04-05,Email
+CUST01058,London,2023-09-19,Referral
+CUST01059,Manchester,2022-10-19,Email
+CUST01060,Birmingham,2022-10-10,Organic
+CUST01061,London,2022-03-10,Referral
+CUST01062,Manchester,2023-10-22,Paid Search
+CUST01063,Glasgow,2022-01-11,Email
+CUST01064,Liverpool,2022-09-11,Organic
+CUST01065,Cardiff,2023-07-04,Organic
+CUST01066,Cardiff,2022-05-14,Referral
+CUST01067,Bristol,2022-01-23,Social
+CUST01068,Birmingham,2022-12-12,Paid Search
+CUST01069,Bristol,2022-10-29,Email
+CUST01070,Liverpool,2022-12-29,Paid Search
+CUST01071,London,2023-01-31,Organic
+CUST01072,Birmingham,2022-08-06,Paid Search
+CUST01073,Edinburgh,2022-05-21,Organic
+CUST01074,Birmingham,2023-09-08,Organic
+CUST01075,Glasgow,2022-07-29,Paid Search
+CUST01076,Glasgow,2023-09-15,Organic
+CUST01077,London,2023-09-08,Social
+CUST01078,Birmingham,2023-11-14,Paid Search
+CUST01079,Manchester,2023-04-05,Email
+CUST01080,London,2022-12-22,Organic
+CUST01081,London,2022-11-20,Referral
+CUST01082,Edinburgh,2022-05-13,Paid Search
+CUST01083,Manchester,2022-05-07,Paid Search
+CUST01084,Leeds,2022-04-16,Paid Search
+CUST01085,Manchester,2023-08-27,Paid Search
+CUST01086,Cardiff,2023-01-13,Paid Search
+CUST01087,Manchester,2022-02-20,Referral
+CUST01088,Birmingham,2022-01-29,Email
+CUST01089,Sheffield,2023-04-07,Email
+CUST01090,Edinburgh,2022-10-23,Referral
+CUST01091,London,2022-10-24,Paid Search
+CUST01092,Edinburgh,2023-02-11,Paid Search
+CUST01093,Birmingham,2023-09-05,Organic
+CUST01094,Leeds,2023-02-09,Paid Search
+CUST01095,London,2022-12-12,Organic
+CUST01096,London,2023-09-14,Organic
+CUST01097,Liverpool,2023-02-24,Organic
+CUST01098,Leeds,2022-07-01,Organic
+CUST01099,Birmingham,2022-01-01,Email
+CUST01100,Liverpool,2023-07-21,Email
+CUST01101,Liverpool,2023-01-06,Organic
+CUST01102,London,2023-10-23,Social
+CUST01103,Glasgow,2023-03-07,Social
+CUST01104,London,2022-11-05,Organic
+CUST01105,Liverpool,2022-05-17,Organic
+CUST01106,Bristol,2022-07-21,Organic
+CUST01107,Cardiff,2023-03-12,Social
+CUST01108,London,2022-11-09,Email
+CUST01109,London,2022-04-27,Paid Search
+CUST01110,Manchester,2023-10-28,Organic
+CUST01111,Manchester,2023-07-29,Referral
+CUST01112,Manchester,2022-09-01,Organic
+CUST01113,Sheffield,2023-06-21,Paid Search
+CUST01114,Manchester,2023-08-25,Email
+CUST01115,Manchester,2022-03-16,Referral
+CUST01116,Liverpool,2023-01-21,Email
+CUST01117,Birmingham,2022-07-29,Email
+CUST01118,Liverpool,2023-04-20,Email
+CUST01119,London,2023-02-22,Organic
+CUST01120,Leeds,2022-12-13,Referral
+CUST01121,London,2023-06-13,Paid Search
+CUST01122,London,2023-10-02,Referral
+CUST01123,Sheffield,2022-06-28,Paid Search
+CUST01124,London,2022-07-01,Referral
+CUST01125,Leeds,2023-10-26,Paid Search
+CUST01126,Birmingham,2022-01-25,Paid Search
+CUST01127,Manchester,2022-06-29,Paid Search
+CUST01128,Sheffield,2023-05-16,Paid Search
+CUST01129,London,2022-06-10,Email
+CUST01130,Bristol,2022-06-26,Email
+CUST01131,Cardiff,2022-10-12,Organic
+CUST01132,Glasgow,2022-03-04,Paid Search
+CUST01133,Cardiff,2023-10-24,Paid Search
+CUST01134,London,2023-10-28,Paid Search
+CUST01135,Birmingham,2022-06-05,Paid Search
+CUST01136,Manchester,2023-04-14,Email
+CUST01137,Liverpool,2022-02-18,Paid Search
+CUST01138,Cardiff,2022-03-25,Organic
+CUST01139,Manchester,2022-12-27,Paid Search
+CUST01140,Bristol,2023-11-20,Paid Search
+CUST01141,London,2022-05-28,Organic
+CUST01142,Glasgow,2023-09-22,Referral
+CUST01143,Leeds,2022-12-08,Paid Search
+CUST01144,Cardiff,2023-04-21,Paid Search
+CUST01145,Glasgow,2022-03-04,Organic
+CUST01146,Manchester,2022-12-26,Paid Search
+CUST01147,London,2023-07-15,Paid Search
+CUST01148,London,2022-11-23,Social
+CUST01149,Manchester,2022-05-21,Referral
+CUST01150,Manchester,2022-08-03,Referral
+CUST01151,Edinburgh,2023-03-11,Organic
+CUST01152,Glasgow,2022-11-14,Organic
+CUST01153,Leeds,2022-02-01,Organic
+CUST01154,London,2023-11-01,Referral
+CUST01155,Sheffield,2022-10-12,Email
+CUST01156,Liverpool,2022-11-01,Paid Search
+CUST01157,London,2023-03-05,Organic
+CUST01158,Bristol,2023-04-22,Organic
+CUST01159,Leeds,2022-10-13,Email
+CUST01160,London,2022-05-24,Referral
+CUST01161,Birmingham,2023-02-28,Organic
+CUST01162,Leeds,2022-01-19,Paid Search
+CUST01163,London,2022-01-18,Referral
+CUST01164,Cardiff,2023-08-13,Paid Search
+CUST01165,Edinburgh,2023-01-06,Organic
+CUST01166,Bristol,2022-06-24,Paid Search
+CUST01167,Leeds,2022-07-13,Referral
+CUST01168,Birmingham,2023-05-17,Paid Search
+CUST01169,Bristol,2022-04-23,Organic
+CUST01170,Leeds,2022-04-24,Email
+CUST01171,London,2022-08-10,Paid Search
+CUST01172,Leeds,2023-11-09,Organic
+CUST01173,Edinburgh,2023-10-06,Organic
+CUST01174,Birmingham,2022-09-21,Paid Search
+CUST01175,London,2022-02-24,Email
+CUST01176,Liverpool,2023-10-05,Paid Search
+CUST01177,London,2023-04-03,Organic
+CUST01178,Manchester,2022-06-11,Referral
+CUST01179,London,2023-01-15,Referral
+CUST01180,Manchester,2022-03-28,Referral
+CUST01181,Liverpool,2022-02-24,Paid Search
+CUST01182,Leeds,2023-04-21,Paid Search
+CUST01183,London,2022-06-27,Email
+CUST01184,Sheffield,2023-01-26,Organic
+CUST01185,Sheffield,2022-12-15,Email
+CUST01186,Sheffield,2022-01-08,Email
+CUST01187,Manchester,2022-11-09,Email
+CUST01188,Birmingham,2023-03-19,Organic
+CUST01189,Cardiff,2022-11-24,Organic
+CUST01190,Liverpool,2022-02-23,Email
+CUST01191,London,2022-08-27,Organic
+CUST01192,London,2022-08-17,Paid Search
+CUST01193,Leeds,2023-08-02,Email
+CUST01194,Sheffield,2022-02-20,Email
+CUST01195,Leeds,2023-09-01,Organic
+CUST01196,Leeds,2023-08-27,Paid Search
+CUST01197,London,2022-09-21,Organic
+CUST01198,Bristol,2023-02-22,Email
+CUST01199,Edinburgh,2022-04-06,Social
+CUST01200,Birmingham,2022-03-29,Paid Search
